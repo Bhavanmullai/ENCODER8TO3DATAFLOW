@@ -58,8 +58,12 @@ endmodule
 
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+<img width="779" height="270" alt="{2E74F31A-EBC4-4419-A231-44820D808AF5}" src="https://github.com/user-attachments/assets/7047f21a-b2c0-490b-a285-7dfbc1e76766" />
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+<img width="869" height="663" alt="{37D67353-39A6-4E43-9297-768704C75E02}" src="https://github.com/user-attachments/assets/4d4001e2-c7cc-47b0-8b7a-4fbd2b2028d2" />
+<img width="837" height="471" alt="{22ACBC64-A07C-4FE7-B108-F71848FFE606}" src="https://github.com/user-attachments/assets/f46e2685-3087-4518-9f35-9c3ae55b6fd2" />
+
 
 **RESULTS**
 Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables are verified
